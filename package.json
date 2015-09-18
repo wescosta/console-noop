@@ -1,0 +1,27 @@
+{
+  "name": "console-noop",
+  "version": "1.0.0",
+  "description": "Fake console as a fallback for browsers which does not support it",
+  "main": "console-noop.js",
+  "scripts": {
+    "test": "node node_modules/jasmine/bin/jasmine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wesleyanemam/console-noop.git"
+  },
+  "keywords": [
+    "console",
+    "noop",
+    "fallback"
+  ],
+  "author": "Wesley Anemam <wesleylira@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleyanemam/console-noop/issues"
+  },
+  "homepage": "https://github.com/wesleyanemam/console-noop",
+  "devDependencies": {
+    "jasmine": "^2.3.2"
+  }
+}
