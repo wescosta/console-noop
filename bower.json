@@ -1,0 +1,23 @@
+{
+  "name": "console-noop",
+  "version": "1.0.0",
+  "main": "console-noop.js",
+  "homepage": "https://github.com/wesleyanemam/console-noop",
+  "authors": [
+    "Wesley Anemam <wesleylira@gmail.com>"
+  ],
+  "description": "Fake console as a fallback for browsers which does not support it",
+  "keywords": [
+    "console",
+    "noop",
+    "old",
+    "browser",
+    "fallback"
+  ],
+  "license": "Apache License 2.0",
+  "ignore": [
+    "*",
+    "!dist",
+    "!LICENSE"
+  ]
+}
