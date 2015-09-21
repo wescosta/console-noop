@@ -14,10 +14,5 @@
     "browser",
     "fallback"
   ],
-  "license": "Apache License 2.0",
-  "ignore": [
-    "*",
-    "!dist",
-    "!LICENSE"
-  ]
+  "license": "Apache License 2.0"
 }
